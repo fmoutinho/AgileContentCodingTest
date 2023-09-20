@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgileContentCodingTest", "AgileContentCodingTest\AgileContentCodingTest.csproj", "{05451643-FA7A-47D4-BC8E-0F7CDB96D00D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgileContentCodingTestTests", "AgileContentCodingTestTests\AgileContentCodingTestTests.csproj", "{764440FF-6EF7-4AFD-8D81-1E15F680855E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05451643-FA7A-47D4-BC8E-0F7CDB96D00D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05451643-FA7A-47D4-BC8E-0F7CDB96D00D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05451643-FA7A-47D4-BC8E-0F7CDB96D00D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05451643-FA7A-47D4-BC8E-0F7CDB96D00D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{764440FF-6EF7-4AFD-8D81-1E15F680855E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{764440FF-6EF7-4AFD-8D81-1E15F680855E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{764440FF-6EF7-4AFD-8D81-1E15F680855E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{764440FF-6EF7-4AFD-8D81-1E15F680855E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5393B450-ED66-45F7-BDFD-0DB841B5A416}
+	EndGlobalSection
+EndGlobal
